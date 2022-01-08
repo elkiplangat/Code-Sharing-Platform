@@ -1,0 +1,5 @@
+task/build
+task/out
+task/src/generated
+out
+build
